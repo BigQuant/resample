@@ -1,7 +1,7 @@
 
-# python
+# Resample
 
-python 代码
+数据重采样
 
 ## 模块开发
 
